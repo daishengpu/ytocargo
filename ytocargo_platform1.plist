@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.1.101.139:8512/ytocargo/YTOEFB_Ver2.3.ipa</string>
+					<string>http://60.191.105.179:8513/ytocargo/YTOEFB_Ver2.3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.1.101.139:8512/ytocargo/EFB.png</string>
+					<string>http://60.191.105.179:8513/ytocargo/EFB.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://10.1.101.139:8512/ytocargo/EFB.png</string>
+					<string>http://60.191.105.179:8513/ytocargo/EFB.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>移动运行</string>
+				<string>EFB</string>
 				<key>title</key>
-				<string>移动运行</string>
+				<string>EFB</string>
 			</dict>
 		</dict>
 	</array>
